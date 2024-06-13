@@ -1,6 +1,6 @@
 # AZ Handwritten Alphabets Dataset
 
-![Handwritten Alphabets](https://storage.googleapis.com/kaggle-datasets-images/746433/1302699/13022ee0fcdcc2d8a8a7b98f1c9626e5/dataset-cover.jpg)
+![Handwritten Alphabets](https://yespunjab.com/wp-content/uploads/2021/01/Good-Handwriting.jpg)
 
 This repository contains the "AZ Handwritten Alphabets" dataset in CSV format. The dataset includes handwritten alphabets (A-Z) in a tabular format, making it suitable for various machine learning tasks, particularly those related to image recognition, pattern recognition, and character recognition.
 
